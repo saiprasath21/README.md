@@ -11,7 +11,7 @@ This GitHub profile is a collection of various projects and internships that I'v
    <a href="mailto:ss651@gatech.edu">
   <img src="https://img.shields.io/badge/Gmail-ss651@gatech.edu-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>
   </a>   
-  <a href="saiprasath21.github.io">
+  <a href="https://saiprasath21.github.io/">
   <img src="https://img.shields.io/badge/saiprasath21.github.io-informational?style=for-the-badge&labelColor=black&logoColor=a64d79&logo=About.me&color=a64d79"/>
   </a>
 </p>
