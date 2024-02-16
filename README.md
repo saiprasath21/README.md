@@ -1,6 +1,6 @@
 ### Hi all, 👋
 
-I'm **Sai Prasath Suresh**, a first year MSCS student at Georgia Tech. I’m passionate about solving complex real-world problems from a data driven perspective using Machine Learning and Deep Learning approaches. Considering the enormous scale and complexity at which businesses operate today, I believe that utilizing AI to drive business decisions and extract knowledge from raw data is essential.
+I'm **Sai Prasath Suresh**, a second year MSCS student at Georgia Tech. I’m passionate about solving complex real-world problems from a data driven perspective using Machine Learning and Deep Learning approaches. Considering the enormous scale and complexity at which businesses operate today, I believe that utilizing AI to drive business decisions and extract knowledge from raw data is essential.
 
 This GitHub profile is a collection of various projects and internships that I've pursued over the last 5 years. I've worked across different domains in ML including: Natural Language Processing (NLP), Reinforcement Learning (RL), Adversarial ML, and Continual Learning.
 
